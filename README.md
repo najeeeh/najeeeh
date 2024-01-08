@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najeeeh
-- 👀 I’m interested in web develepoment and Data science
-- 🌱 I’m currently learning full stack JS
+- 👀 I’m interested in Computer science 
+- 🌱 I’m currently learning and exploring this field
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me you can find me in Linkedin
 
